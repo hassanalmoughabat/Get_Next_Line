@@ -1,0 +1,1 @@
+This is my 42 get_next_line projects it aims to read line from a file according to buffer identified in the header.This project aims to learn more about memory leaks and have more knowledge about file ccontrollin in C Programs
